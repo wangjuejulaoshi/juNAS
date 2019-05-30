@@ -1,2 +1,6 @@
 # juNAS
-just make a distribution and as is NAS solution myself
+just making a distribution and “as is” NAS solution
+
+Software：rockstor
+Hardware：personalized
+
